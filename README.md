@@ -41,11 +41,15 @@ C#
 VISUAL BASIC
 ### OTHER
 
-Strong interest in PC hardware and software
-Excel and Google Sheets nut
-Problem solving, creative solutions and out-of-the-box thinking
-Football, writing and other creative pursuits
-Team player, willing and eager to learn
+- Strong interest in PC hardware and software
+
+- Excel and Google Sheets nut
+
+- Problem solving, creative solutions and out-of-the-box thinking
+
+- Football, writing and other creative pursuits
+
+- Team player, willing and eager to learn
 
 ## Important projects during my studies:
 Class project in Java tools & Build environments course: [storm](https://github.com/fungover/storm)
