@@ -51,7 +51,7 @@ Team player, willing and eager to learn
 Class project in Java tools & Build environments course: [storm](https://github.com/fungover/storm)
 
 A simple webserver implementation where we practiced using a CI pipeline
-Final group project in Spring Boot for our Java EE/Spring boot course: [Library management System](https://github.com/fireblazrs/library-management-system)
+Final group project in Spring Boot for our Java EE/Spring boot course: [Library Management System](https://github.com/fireblazrs/library-management-system)
 
 A project following a CI pipeline, where we created a Library management system using Spring boot. With basic security. Feel free to explore our issues, pull requests, README.md, project roadmap and published releases.
 
