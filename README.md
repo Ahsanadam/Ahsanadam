@@ -1,12 +1,12 @@
 ### Hello I'm Adam! 👋
 Ongoing Java fullstack developer!
-Currently undertaking a 2-year Java Developer fullstack program @IT-Högskolan, Gothenburg
+Currently undertaking an internship at Aveer AB as a Java fullstack developer in Gothenburg, Sweden.
 
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Ahsanadam)](https://github.com/Ahsanadam/github-readme-stats)
 
 How to contact me: adamebadul@gmail.com
 
-The technologies I'm working with and currently studying:
+The technologies I'm working with are:
 
 ### IDEs
 
