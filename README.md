@@ -1,6 +1,6 @@
 ### Hello I'm Adam! 👋
 Ongoing Java fullstack developer!
-Currently undertaking an internship at Aveer AB as a Java fullstack developer in Gothenburg, Sweden.
+Currently undertaking an internship at Swegon Group as a fullstack developer in Gothenburg, Sweden.
 
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Ahsanadam)](https://github.com/Ahsanadam/github-readme-stats)
 
