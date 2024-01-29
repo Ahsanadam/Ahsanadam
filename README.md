@@ -38,7 +38,7 @@ AWS, Serverless
 ### KNOWLEDGE IN
 
 C#
-VISUAL BASIC
+.NET
 ### OTHER
 
 - Strong interest in PC hardware and software
