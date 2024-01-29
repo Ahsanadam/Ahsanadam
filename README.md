@@ -35,7 +35,7 @@ RESTful API, Microservices, Consul/Vault
 ### CLOUD
 
 AWS, Serverless
-### SOME KNOWLEDGE IN
+### KNOWLEDGE IN
 
 C#
 VISUAL BASIC
