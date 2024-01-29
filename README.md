@@ -1,6 +1,6 @@
 ### Hello I'm Adam! 👋
 Ongoing fullstack developer!
-Currently working at Swegon Group as a fullstack developer in Gothenburg, Sweden.
+Currently working(pro bono) at Novalo as a fullstack developer in Gothenburg, Sweden.
 
 [![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Ahsanadam)](https://github.com/Ahsanadam/github-readme-stats)
 
