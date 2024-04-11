@@ -2,8 +2,6 @@
 Ongoing fullstack developer!
 Currently working(pro bono) at Novalo as a fullstack developer in Gothenburg, Sweden.
 
-[![Adam's github stats](https://github-readme-stats.vercel.app/api?username=Ahsanadam)](https://github.com/Ahsanadam/github-readme-stats)
-
 How to contact me: adamebadul@gmail.com
 
 The technologies I'm working with or have worked with are:
