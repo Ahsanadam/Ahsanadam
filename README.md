@@ -1,6 +1,5 @@
 ### Hello I'm Adam! 👋
-Ongoing fullstack developer!
-Currently working(pro bono) at Novalo as a fullstack developer in Gothenburg, Sweden.
+I am fullstack developer located in Gothenburg, Sweden!
 
 How to contact me: adamebadul@gmail.com
 
