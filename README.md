@@ -1,5 +1,5 @@
 ### Hello I'm Adam! 👋
-I am fullstack developer located in Gothenburg, Sweden!
+I am a fullstack developer located in Gothenburg, Sweden!
 
 How to contact me: adamebadul@gmail.com
 
