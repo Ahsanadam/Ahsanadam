@@ -1,57 +1,46 @@
-### Hello I'm Adam! 👋
-I am a fullstack developer located in Gothenburg, Sweden!
+# Hi, I'm Adam 👋
 
-How to contact me: adamebadul@gmail.com
+I'm a software developer based in Gothenburg, Sweden, with experience in software development, product security, and AI-supported solutions.
 
-The technologies I'm working with or have worked with are:
+## About me
 
-### IDEs
+- Graduated in IT Security Development at EC Utbildning in 2026
+- Worked with Product Security at SKF, including threat modeling, vulnerability scanning, and security testing
+- Worked with software development, automation, and AI/ML solutions at Swegon
+- Building software for community projects, including an administration app for MKA
+- Interested in application security, secure software development, and practical uses of AI
 
-IntelliJ, Eclipse, Netbeans, Visual Studio, MySQL workbench, Visual Studio Code
-### WORKFLOW
+## Experience
 
-TDD, MVC, CI & CD pipelines, Github actions
-### JAVA
+- **Product Security Intern — SKF** | Dec 2025–Jun 2026  
+  Worked with threat modeling, vulnerability scanning, and security testing.
 
-Maven, Java/Jakarta EE, Spring Boot, Micronaut, JMS/RabbitMQ, JavaFX, Swing, Hibernate, JUnit5/Mockito/AssertJ testing
-### DATABASE
+- **Software Developer — Swegon** | 2023–2024  
+  Worked with software development, automation, and AI/ML solutions.
 
-MySQL, JDBC/JPA, PostgreSQL, MongoDB, UML & ER Modeling
-### WEB
+- **Software Developer (pro bono) — Novalo Technologies** | Jan–Apr 2024  
+  Worked with React, AWS, Docker, and CI/CD using GitHub Actions.
 
-JavaScript, HTML, CSS
-### GIT
+- **Software Developer Intern — Aveer AB** | Nov 2022–Mar 2023  
+  Developed REST APIs and backend features using Java and Spring Boot, with SQL/JPA and React.
 
-Console commands, GitHub, Jenkins/Github Actions, Bitbucket, GitLab
-### DOCKER
+## Technologies
 
-Docker compose, Kubernetes, GraalVM
-### WEB SERVICES
+**Languages:** C#, Java, JavaScript, Python, TypeScript, SQL  
+**Frameworks and development:** .NET, Blazor, Spring Boot, React, ML.NET, REST APIs  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Security:** TARA/STRIDE, Nessus, Burp Suite, Wireshark, SonarQube, testssl.sh  
+**Cloud and DevOps:** Azure, AWS, Docker, Git, GitHub Actions, CI/CD
 
-RESTful API, Microservices, Consul/Vault
-### CLOUD
+## Selected projects
 
-AWS, Serverless
-### KNOWLEDGE IN
+- [List-Detector](https://github.com/Ahsanadam/List-Detector)
+- **MKA Maal application** — software for community administration
 
-C#
-.NET
-### OTHER
+## Outside of technology
 
-- Strong interest in PC hardware and software.
+I volunteer in community administration and event coordination, and I enjoy strength training.
 
-- Excel and Google Sheets nut.
+## Contact
 
-- Problem solving, creative solutions and out-of-the-box thinking.
-
-- Football, writing and other creative pursuits.
-
-- Team player, willing and eager to learn.
-
-## Important projects during my studies:
-Class project in Java tools & Build environments course: [storm](https://github.com/fungover/storm).
-
-A simple webserver implementation where we practiced using a CI pipeline.
-Final group project in Spring Boot for our Java EE/Spring boot course: [Library Management System](https://github.com/fireblazrs/library-management-system).
-
-A project following a CI pipeline, where we created a Library management system using Spring boot. With basic security. Feel free to explore our issues, pull requests, README.md, project roadmap and published releases.
+- Email: adamebadul@gmail.com
